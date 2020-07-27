@@ -5,3 +5,9 @@ body {
 title {
   font-style: italics
 }
+@media screen and (min-width: 480px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
